@@ -1,3 +1,2 @@
 print("hola mundo") 
-
-## este es un comentario
+# este es un comentario anterior
